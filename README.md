@@ -31,14 +31,8 @@
 	- [ ] Bare workflow
 	- [x] w/ Expo unimodules
 
-- [ ] myapp--expo--no-template
+- [x] myapp--expo--ts-template (`$ expo init MyApp`, pick "Bare workflow > minimal (TypeScript)")
 	- [ ] RN V0.63
-	- [ ] TS support
-	- [ ] Bare workflow
-	- [ ] w/ Expo unimodules
-
-- [ ] myapp--expo--ts-template
-	- [ ] RN V0.63
-	- [ ] TS support
-	- [ ] Bare workflow
-	- [ ] w/ Expo unimodules
+	- [x] TS support
+	- [x] Bare workflow
+	- [x] w/ Expo unimodules
