@@ -19,11 +19,11 @@
 	- [x] Bare workflow
 	- [ ] w/ Expo unimodules
 
-- [ ] myapp--npx-crnapp--no-template
+- [x] myapp--npx-crnapp--no-template (`$ npx create-react-native-app MyApp`)
 	- [ ] RN V0.63
 	- [ ] TS support
-	- [ ] Bare workflow
-	- [ ] w/ Expo unimodules
+	- [x] Bare workflow
+	- [x] w/ Expo unimodules
 
 - [x] myapp--npx-crnapp--ts-template (`$ npx create-react-native-app MyApp -t with-typescript`)
 	- [ ] RN V0.63
