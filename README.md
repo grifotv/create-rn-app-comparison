@@ -13,12 +13,6 @@
 	- [x] Bare workflow
 	- [ ] w/ Expo unimodules
 
-- [x] myapp--rn--ts-template (`$ react-native init MyApp --template react-native-template-typescript`)
-	- [x] RN V0.63
-	- [x] TS support
-	- [x] Bare workflow
-	- [ ] w/ Expo unimodules
-
 - [x] myapp--npx-crnapp--no-template (`$ npx create-react-native-app MyApp`)
 	- [ ] RN V0.63
 	- [ ] TS support
