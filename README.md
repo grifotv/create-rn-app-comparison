@@ -1,9 +1,9 @@
 # Comparison of multiple ways of creating a React Native project
 
 ## Core requirements 
-- [ ] RN V0.63
-- [ ] TS support
-- [ ] w/ Expo unimodules
+- RN V0.63
+- TS support
+- w/ Expo unimodules
 
 ## Variants
 - [ ] myapp--npx-rn--no-template
