@@ -13,12 +13,6 @@
 	- [x] Bare workflow
 	- [ ] w/ Expo unimodules
 
-- [x] myapp--rn--ts-template (`$ react-native init MyApp --template react-native-template-typescript`)
-	- [x] RN V0.63
-	- [x] TS support
-	- [x] Bare workflow
-	- [ ] w/ Expo unimodules
-
 - [x] myapp--npx-crnapp--no-template (`$ npx create-react-native-app MyApp`)
 	- [ ] RN V0.63
 	- [ ] TS support
@@ -31,14 +25,8 @@
 	- [ ] Bare workflow
 	- [x] w/ Expo unimodules
 
-- [ ] myapp--expo--no-template
+- [x] myapp--expo--ts-template (`$ expo init MyApp`, pick "Bare workflow > minimal (TypeScript)")
 	- [ ] RN V0.63
-	- [ ] TS support
-	- [ ] Bare workflow
-	- [ ] w/ Expo unimodules
-
-- [ ] myapp--expo--ts-template
-	- [ ] RN V0.63
-	- [ ] TS support
-	- [ ] Bare workflow
-	- [ ] w/ Expo unimodules
+	- [x] TS support
+	- [x] Bare workflow
+	- [x] w/ Expo unimodules
