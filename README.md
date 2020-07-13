@@ -1,4 +1,4 @@
-# Comparison of multiple ways of creating a React Native project
+# Comparison of ways of creating a React Native app
 
 ## Core requirements 
 - RN V0.63
