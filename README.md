@@ -16,9 +16,9 @@
 	- [ ] TS support
 	- [ ] w/ Expo unimodules
 
-- [ ] myapp--npx-rn--ts-template (`$ npx react-native init MyApp --template react-native-template-typescript`)
-	- [ ] RN V0.63
-	- [ ] TS support
+- [x] myapp--npx-rn--ts-template (`$ npx react-native init MyApp --template react-native-template-typescript`)
+	- [x] RN V0.63
+	- [x] TS support
 	- [ ] w/ Expo unimodules
 
 - [ ] myapp--rn--ts-template
