@@ -21,9 +21,9 @@
 	- [x] TS support
 	- [ ] w/ Expo unimodules
 
-- [ ] myapp--rn--ts-template
-	- [ ] RN V0.63
-	- [ ] TS support
+- [x] myapp--rn--ts-template (`$ react-native init MyApp --template react-native-template-typescript`)
+	- [x] RN V0.63
+	- [x] TS support
 	- [ ] w/ Expo unimodules
 
 - [ ] myapp--npx-crnapp--no-template
