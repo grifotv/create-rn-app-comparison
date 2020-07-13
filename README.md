@@ -6,16 +6,6 @@
 - w/ Expo unimodules
 
 ## Variants
-- [ ] myapp--npx-rn--no-template
-	- [ ] RN V0.63
-	- [ ] TS support
-	- [ ] w/ Expo unimodules
-
-- [ ] myapp--rn--no-template
-	- [ ] RN V0.63
-	- [ ] TS support
-	- [ ] w/ Expo unimodules
-
 - [x] myapp--npx-rn--ts-template (`$ npx react-native init MyApp --template react-native-template-typescript`)
 	- [x] RN V0.63
 	- [x] TS support
